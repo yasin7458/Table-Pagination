@@ -1,0 +1,804 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "name": "Rahul Patel",
+            "dsa": 78,
+            "maths": 85,
+            "dbma": 72,
+            "networking": 80
+        },
+        {
+            "id": 2,
+            "name": "Aarav Shah",
+            "dsa": 88,
+            "maths": 76,
+            "dbma": 81,
+            "networking": 79
+        },
+        {
+            "id": 3,
+            "name": "Yash Mehta",
+            "dsa": 92,
+            "maths": 89,
+            "dbma": 85,
+            "networking": 91
+        },
+        {
+            "id": 4,
+            "name": "Dhruv Patel",
+            "dsa": 74,
+            "maths": 82,
+            "dbma": 77,
+            "networking": 69
+        },
+        {
+            "id": 5,
+            "name": "Krish Shah",
+            "dsa": 81,
+            "maths": 79,
+            "dbma": 88,
+            "networking": 84
+        },
+        {
+            "id": 6,
+            "name": "Dev Joshi",
+            "dsa": 69,
+            "maths": 75,
+            "dbma": 73,
+            "networking": 78
+        },
+        {
+            "id": 7,
+            "name": "Harsh Patel",
+            "dsa": 86,
+            "maths": 91,
+            "dbma": 80,
+            "networking": 87
+        },
+        {
+            "id": 8,
+            "name": "Meet Shah",
+            "dsa": 77,
+            "maths": 84,
+            "dbma": 76,
+            "networking": 81
+        },
+        {
+            "id": 9,
+            "name": "Parth Mehta",
+            "dsa": 90,
+            "maths": 87,
+            "dbma": 92,
+            "networking": 88
+        },
+        {
+            "id": 10,
+            "name": "Karan Patel",
+            "dsa": 72,
+            "maths": 68,
+            "dbma": 75,
+            "networking": 71
+        },
+        {
+            "id": 11,
+            "name": "Rohan Shah",
+            "dsa": 83,
+            "maths": 80,
+            "dbma": 86,
+            "networking": 82
+        },
+        {
+            "id": 12,
+            "name": "Devansh Patel",
+            "dsa": 95,
+            "maths": 92,
+            "dbma": 89,
+            "networking": 94
+        },
+        {
+            "id": 13,
+            "name": "Jay Mehta",
+            "dsa": 79,
+            "maths": 73,
+            "dbma": 81,
+            "networking": 77
+        },
+        {
+            "id": 14,
+            "name": "Aayush Shah",
+            "dsa": 87,
+            "maths": 85,
+            "dbma": 83,
+            "networking": 90
+        },
+        {
+            "id": 15,
+            "name": "Manav Patel",
+            "dsa": 71,
+            "maths": 78,
+            "dbma": 74,
+            "networking": 80
+        },
+        {
+            "id": 16,
+            "name": "Mihir Joshi",
+            "dsa": 84,
+            "maths": 89,
+            "dbma": 79,
+            "networking": 85
+        },
+        {
+            "id": 17,
+            "name": "Smit Shah",
+            "dsa": 93,
+            "maths": 90,
+            "dbma": 94,
+            "networking": 91
+        },
+        {
+            "id": 18,
+            "name": "Nirav Patel",
+            "dsa": 76,
+            "maths": 81,
+            "dbma": 70,
+            "networking": 75
+        },
+        {
+            "id": 19,
+            "name": "Aditya Mehta",
+            "dsa": 89,
+            "maths": 86,
+            "dbma": 84,
+            "networking": 88
+        },
+        {
+            "id": 20,
+            "name": "Raj Shah",
+            "dsa": 68,
+            "maths": 72,
+            "dbma": 79,
+            "networking": 74
+        },
+        {
+            "id": 21,
+            "name": "Vivek Patel",
+            "dsa": 82,
+            "maths": 77,
+            "dbma": 85,
+            "networking": 83
+        },
+        {
+            "id": 22,
+            "name": "Akash Joshi",
+            "dsa": 91,
+            "maths": 88,
+            "dbma": 90,
+            "networking": 86
+        },
+        {
+            "id": 23,
+            "name": "Het Shah",
+            "dsa": 75,
+            "maths": 80,
+            "dbma": 78,
+            "networking": 72
+        },
+        {
+            "id": 24,
+            "name": "Om Patel",
+            "dsa": 85,
+            "maths": 83,
+            "dbma": 87,
+            "networking": 89
+        },
+        {
+            "id": 25,
+            "name": "Arjun Mehta",
+            "dsa": 94,
+            "maths": 91,
+            "dbma": 88,
+            "networking": 93
+        },
+        {
+            "id": 26,
+            "name": "Tirth Shah",
+            "dsa": 73,
+            "maths": 79,
+            "dbma": 71,
+            "networking": 76
+        },
+        {
+            "id": 27,
+            "name": "Darsh Patel",
+            "dsa": 88,
+            "maths": 84,
+            "dbma": 82,
+            "networking": 87
+        },
+        {
+            "id": 28,
+            "name": "Maulik Joshi",
+            "dsa": 80,
+            "maths": 75,
+            "dbma": 83,
+            "networking": 81
+        },
+        {
+            "id": 29,
+            "name": "Bhavin Shah",
+            "dsa": 92,
+            "maths": 95,
+            "dbma": 90,
+            "networking": 89
+        },
+        {
+            "id": 30,
+            "name": "Ankit Patel",
+            "dsa": 70,
+            "maths": 74,
+            "dbma": 76,
+            "networking": 73
+        },
+        {
+            "id": 31,
+            "name": "Ravi Mehta",
+            "dsa": 86,
+            "maths": 82,
+            "dbma": 89,
+            "networking": 85
+        },
+        {
+            "id": 32,
+            "name": "Kunal Shah",
+            "dsa": 78,
+            "maths": 87,
+            "dbma": 80,
+            "networking": 79
+        },
+        {
+            "id": 33,
+            "name": "Abhishek Patel",
+            "dsa": 90,
+            "maths": 93,
+            "dbma": 86,
+            "networking": 91
+        },
+        {
+            "id": 34,
+            "name": "Nikhil Joshi",
+            "dsa": 74,
+            "maths": 71,
+            "dbma": 77,
+            "networking": 80
+        },
+        {
+            "id": 35,
+            "name": "Shrey Shah",
+            "dsa": 83,
+            "maths": 85,
+            "dbma": 81,
+            "networking": 88
+        },
+        {
+            "id": 36,
+            "name": "Rudra Patel",
+            "dsa": 96,
+            "maths": 94,
+            "dbma": 92,
+            "networking": 95
+        },
+        {
+            "id": 37,
+            "name": "Ansh Mehta",
+            "dsa": 79,
+            "maths": 76,
+            "dbma": 84,
+            "networking": 82
+        },
+        {
+            "id": 38,
+            "name": "Sahil Shah",
+            "dsa": 87,
+            "maths": 81,
+            "dbma": 88,
+            "networking": 84
+        },
+        {
+            "id": 39,
+            "name": "Vraj Patel",
+            "dsa": 72,
+            "maths": 77,
+            "dbma": 73,
+            "networking": 75
+        },
+        {
+            "id": 40,
+            "name": "Ishaan Joshi",
+            "dsa": 91,
+            "maths": 89,
+            "dbma": 93,
+            "networking": 90
+        },
+        {
+            "id": 41,
+            "name": "Himanshu Shah",
+            "dsa": 80,
+            "maths": 82,
+            "dbma": 79,
+            "networking": 86
+        },
+        {
+            "id": 42,
+            "name": "Darshan Patel",
+            "dsa": 85,
+            "maths": 88,
+            "dbma": 84,
+            "networking": 81
+        },
+        {
+            "id": 43,
+            "name": "Amit Mehta",
+            "dsa": 77,
+            "maths": 73,
+            "dbma": 80,
+            "networking": 78
+        },
+        {
+            "id": 44,
+            "name": "Chirag Shah",
+            "dsa": 89,
+            "maths": 86,
+            "dbma": 91,
+            "networking": 87
+        },
+        {
+            "id": 45,
+            "name": "Rakesh Patel",
+            "dsa": 69,
+            "maths": 75,
+            "dbma": 72,
+            "networking": 70
+        },
+        {
+            "id": 46,
+            "name": "Vishal Joshi",
+            "dsa": 93,
+            "maths": 90,
+            "dbma": 88,
+            "networking": 92
+        },
+        {
+            "id": 47,
+            "name": "Naman Shah",
+            "dsa": 81,
+            "maths": 79,
+            "dbma": 85,
+            "networking": 83
+        },
+        {
+            "id": 48,
+            "name": "Parth Patel",
+            "dsa": 88,
+            "maths": 92,
+            "dbma": 87,
+            "networking": 89
+        },
+        {
+            "id": 49,
+            "name": "Yuvraj Mehta",
+            "dsa": 76,
+            "maths": 84,
+            "dbma": 78,
+            "networking": 80
+        },
+        {
+            "id": 50,
+            "name": "Rajveer Shah",
+            "dsa": 95,
+            "maths": 93,
+            "dbma": 91,
+            "networking": 94
+        },
+        {
+            "id": 51,
+            "name": "Jayesh Patel",
+            "dsa": 73,
+            "maths": 70,
+            "dbma": 76,
+            "networking": 74
+        },
+        {
+            "id": 52,
+            "name": "Harshil Mehta",
+            "dsa": 84,
+            "maths": 87,
+            "dbma": 82,
+            "networking": 86
+        },
+        {
+            "id": 53,
+            "name": "Rishit Shah",
+            "dsa": 90,
+            "maths": 85,
+            "dbma": 89,
+            "networking": 92
+        },
+        {
+            "id": 54,
+            "name": "Manan Patel",
+            "dsa": 78,
+            "maths": 81,
+            "dbma": 75,
+            "networking": 79
+        },
+        {
+            "id": 55,
+            "name": "Kartik Joshi",
+            "dsa": 87,
+            "maths": 90,
+            "dbma": 84,
+            "networking": 88
+        },
+        {
+            "id": 56,
+            "name": "Meet Patel",
+            "dsa": 92,
+            "maths": 88,
+            "dbma": 93,
+            "networking": 90
+        },
+        {
+            "id": 57,
+            "name": "Anuj Shah",
+            "dsa": 71,
+            "maths": 76,
+            "dbma": 74,
+            "networking": 78
+        },
+        {
+            "id": 58,
+            "name": "Sagar Mehta",
+            "dsa": 82,
+            "maths": 85,
+            "dbma": 80,
+            "networking": 84
+        },
+        {
+            "id": 59,
+            "name": "Akshat Patel",
+            "dsa": 94,
+            "maths": 91,
+            "dbma": 95,
+            "networking": 92
+        },
+        {
+            "id": 60,
+            "name": "Rohan Joshi",
+            "dsa": 79,
+            "maths": 83,
+            "dbma": 77,
+            "networking": 81
+        },
+        {
+            "id": 61,
+            "name": "Vansh Shah",
+            "dsa": 86,
+            "maths": 89,
+            "dbma": 85,
+            "networking": 87
+        },
+        {
+            "id": 62,
+            "name": "Dev Patel",
+            "dsa": 75,
+            "maths": 72,
+            "dbma": 79,
+            "networking": 76
+        },
+        {
+            "id": 63,
+            "name": "Aarush Mehta",
+            "dsa": 91,
+            "maths": 94,
+            "dbma": 90,
+            "networking": 93
+        },
+        {
+            "id": 64,
+            "name": "Soham Shah",
+            "dsa": 83,
+            "maths": 80,
+            "dbma": 86,
+            "networking": 82
+        },
+        {
+            "id": 65,
+            "name": "Raj Patel",
+            "dsa": 88,
+            "maths": 86,
+            "dbma": 81,
+            "networking": 89
+        },
+        {
+            "id": 66,
+            "name": "Ved Mehta",
+            "dsa": 70,
+            "maths": 78,
+            "dbma": 73,
+            "networking": 75
+        },
+        {
+            "id": 67,
+            "name": "Kishan Shah",
+            "dsa": 85,
+            "maths": 91,
+            "dbma": 87,
+            "networking": 84
+        },
+        {
+            "id": 68,
+            "name": "Rudraksh Patel",
+            "dsa": 93,
+            "maths": 89,
+            "dbma": 92,
+            "networking": 95
+        },
+        {
+            "id": 69,
+            "name": "Avi Joshi",
+            "dsa": 77,
+            "maths": 82,
+            "dbma": 75,
+            "networking": 79
+        },
+        {
+            "id": 70,
+            "name": "Dhruv Shah",
+            "dsa": 89,
+            "maths": 87,
+            "dbma": 90,
+            "networking": 86
+        },
+        {
+            "id": 71,
+            "name": "Omkar Patel",
+            "dsa": 81,
+            "maths": 79,
+            "dbma": 83,
+            "networking": 85
+        },
+        {
+            "id": 72,
+            "name": "Arnav Mehta",
+            "dsa": 95,
+            "maths": 92,
+            "dbma": 94,
+            "networking": 91
+        },
+        {
+            "id": 73,
+            "name": "Yash Shah",
+            "dsa": 74,
+            "maths": 80,
+            "dbma": 77,
+            "networking": 72
+        },
+        {
+            "id": 74,
+            "name": "Devraj Patel",
+            "dsa": 86,
+            "maths": 84,
+            "dbma": 88,
+            "networking": 90
+        },
+        {
+            "id": 75,
+            "name": "Siddharth Joshi",
+            "dsa": 79,
+            "maths": 85,
+            "dbma": 81,
+            "networking": 83
+        },
+        {
+            "id": 76,
+            "name": "Abhay Shah",
+            "dsa": 91,
+            "maths": 88,
+            "dbma": 90,
+            "networking": 87
+        },
+        {
+            "id": 77,
+            "name": "Rishi Patel",
+            "dsa": 72,
+            "maths": 76,
+            "dbma": 74,
+            "networking": 78
+        },
+        {
+            "id": 78,
+            "name": "Aman Mehta",
+            "dsa": 84,
+            "maths": 89,
+            "dbma": 86,
+            "networking": 82
+        },
+        {
+            "id": 79,
+            "name": "Laksh Shah",
+            "dsa": 90,
+            "maths": 93,
+            "dbma": 89,
+            "networking": 94
+        },
+        {
+            "id": 80,
+            "name": "Naitik Patel",
+            "dsa": 78,
+            "maths": 81,
+            "dbma": 76,
+            "networking": 80
+        },
+        {
+            "id": 81,
+            "name": "Samar Joshi",
+            "dsa": 87,
+            "maths": 85,
+            "dbma": 91,
+            "networking": 88
+        },
+        {
+            "id": 82,
+            "name": "Kush Shah",
+            "dsa": 73,
+            "maths": 79,
+            "dbma": 75,
+            "networking": 77
+        },
+        {
+            "id": 83,
+            "name": "Ronak Patel",
+            "dsa": 92,
+            "maths": 90,
+            "dbma": 94,
+            "networking": 89
+        },
+        {
+            "id": 84,
+            "name": "Anay Mehta",
+            "dsa": 80,
+            "maths": 83,
+            "dbma": 78,
+            "networking": 85
+        },
+        {
+            "id": 85,
+            "name": "Rudra Shah",
+            "dsa": 89,
+            "maths": 86,
+            "dbma": 88,
+            "networking": 91
+        },
+        {
+            "id": 86,
+            "name": "Vivan Patel",
+            "dsa": 76,
+            "maths": 74,
+            "dbma": 81,
+            "networking": 79
+        },
+        {
+            "id": 87,
+            "name": "Aarav Mehta",
+            "dsa": 94,
+            "maths": 91,
+            "dbma": 93,
+            "networking": 95
+        },
+        {
+            "id": 88,
+            "name": "Swayam Shah",
+            "dsa": 83,
+            "maths": 87,
+            "dbma": 82,
+            "networking": 84
+        },
+        {
+            "id": 89,
+            "name": "Krish Patel",
+            "dsa": 88,
+            "maths": 90,
+            "dbma": 85,
+            "networking": 87
+        },
+        {
+            "id": 90,
+            "name": "Adit Mehta",
+            "dsa": 71,
+            "maths": 77,
+            "dbma": 73,
+            "networking": 76
+        },
+        {
+            "id": 91,
+            "name": "Darsh Shah",
+            "dsa": 85,
+            "maths": 82,
+            "dbma": 89,
+            "networking": 86
+        },
+        {
+            "id": 92,
+            "name": "Moksh Patel",
+            "dsa": 93,
+            "maths": 95,
+            "dbma": 91,
+            "networking": 92
+        },
+        {
+            "id": 93,
+            "name": "Shiv Mehta",
+            "dsa": 79,
+            "maths": 81,
+            "dbma": 77,
+            "networking": 83
+        },
+        {
+            "id": 94,
+            "name": "Anshul Shah",
+            "dsa": 90,
+            "maths": 88,
+            "dbma": 92,
+            "networking": 89
+        },
+        {
+            "id": 95,
+            "name": "Yug Patel",
+            "dsa": 75,
+            "maths": 78,
+            "dbma": 80,
+            "networking": 74
+        },
+        {
+            "id": 96,
+            "name": "Parth Joshi",
+            "dsa": 86,
+            "maths": 91,
+            "dbma": 87,
+            "networking": 85
+        },
+        {
+            "id": 97,
+            "name": "Aarav Patel",
+            "dsa": 97,
+            "maths": 94,
+            "dbma": 96,
+            "networking": 93
+        },
+        {
+            "id": 98,
+            "name": "Reyansh Shah",
+            "dsa": 82,
+            "maths": 86,
+            "dbma": 84,
+            "networking": 80
+        },
+        {
+            "id": 99,
+            "name": "Vivaan Mehta",
+            "dsa": 91,
+            "maths": 89,
+            "dbma": 90,
+            "networking": 94
+        },
+        {
+            "id": 100,
+            "name": "Atharv Patel",
+            "dsa": 88,
+            "maths": 92,
+            "dbma": 86,
+            "networking": 90
+        }
+    ]
+}

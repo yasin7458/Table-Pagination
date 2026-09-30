@@ -1,0 +1,125 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.main-page {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #eef2ff, #f8fafc, #e0f2fe);
+}
+
+.heading-box h1 {
+  color: #273469;
+  font-size: 34px;
+  font-weight: 700;
+  margin-bottom: 6px;
+}
+
+.heading-box p {
+  color: #64748b;
+  font-size: 15px;
+}
+
+.student-card {
+  background: white;
+  border-radius: 16px;
+  overflow: hidden;
+}
+
+.student-table {
+  width: 100%;
+}
+
+.student-table thead {
+  background: linear-gradient(90deg, #273469, #4361ee);
+  color: white;
+}
+
+.student-table th {
+  padding: 16px 14px;
+  font-size: 14px;
+  font-weight: 600;
+  border: none;
+}
+
+.student-table td {
+  padding: 15px 14px;
+  font-size: 14px;
+  color: #334155;
+  border-color: #edf0f5;
+}
+
+.id-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 35px;
+  height: 32px;
+  padding: 0 9px;
+  border-radius: 8px;
+  background: #e0e7ff;
+  color: #273469;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.student-name {
+  color: #1e293b !important;
+  font-weight: 600;
+}
+
+.pagination-row td {
+  background: #f8fafc;
+  padding: 13px 18px !important;
+  border-top: 1px solid #e2e8f0;
+}
+
+.pagination-area {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.page-select {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: #475569;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.page-select .form-select {
+  width: 70px;
+  border-radius: 7px;
+  border: 1px solid #cbd5e1;
+  font-size: 13px;
+}
+
+.page-navigation {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.page-info {
+  color: #64748b;
+  font-size: 13px;
+  margin-right: 5px;
+}
+
+.page-btn {
+  width: 34px;
+  height: 34px;
+  padding: 0;
+  border: none;
+  border-radius: 8px;
+  background: linear-gradient(135deg, #273469, #4361ee);
+  color: white;
+  font-size: 18px;
+}
