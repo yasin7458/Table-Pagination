@@ -255,15 +255,6 @@ viewed properly on different screen sizes.
 
 ------------------------------------------------------------------------
 
-## 🎥 Demo Video
-
-The demo video explains the complete working of the project from data
-fetching to pagination.
-
-**Demo Video:** [Watch Project Demo](YOUR_VIDEO_LINK_HERE)
-
-------------------------------------------------------------------------
-
 ## 👨‍💻 Project Purpose
 
 This project was created to practice:
