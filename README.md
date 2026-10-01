@@ -18,7 +18,7 @@ displays the records in a clean table with pagination.
 
 Click below to watch the complete project demonstration:
 
-**[▶️ Watch Student Management System Demo](YOUR_VIDEO_LINK_HERE)**
+**[▶️ Watch Student Management System Demo](https://drive.google.com/file/d/15T16EAukkQdroB7Vp-2L4Jw6LDqDbgQN/view?usp=drivesdk)**
 
 > **Note:** Replace `YOUR_VIDEO_LINK_HERE` with your actual YouTube,
 > Google Drive, or other video link before uploading the project to
